@@ -9,3 +9,4 @@ git init -> digunakan jika ingin komputer dengan github terhubung dan biasanya d
 git config --list
 git clone (salin code dari github)
 cd folder/
+git pull -u origin master --allow-unrelated-histories
